@@ -6,7 +6,7 @@ import org.litepal.crud.DataSupport;
  * Created by ruby on 2018/3/17.
  */
 
-public class city extends DataSupport {
+public class City extends DataSupport {
     private int id;
     private String cityname;
     private int cityCode;
